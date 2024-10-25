@@ -1,0 +1,32 @@
+﻿@using TravelTripProject.Models.Siniflar
+@model List<Comments>
+@{
+    ViewData["Title"] = "CommentList";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>CommentList</h1>
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>User Name</th>
+        <th>Mail</th>
+        <th>Comment</th>
+        <th>Blog</th>
+        <th>Delete</th>
+        <th>Update</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CommentsID</td>
+            <td>@item.UserName</td>
+            <td>@item.UserMail</td>
+            <td>@item.UserComment</td>
+            <td>@item.BlogsId</td>
+            <td><a href="/Admin/DeleteComment/@item.CommentsID" class="btn btn-danger">Delete</a></td>
+            <td><a href="#" class="btn btn-warning">Update</a></td>
+        </tr>
+    }
+    
+</table>
