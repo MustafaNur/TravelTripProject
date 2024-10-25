@@ -17,7 +17,7 @@ Proje tatil seyahat ve blog sitesi olarak oluşturuldu. Siteyi üç başlığa b
 
 ### Proje ile ilgi Fotoğraflar
 
-![About Page](https://hizliresim.com/a4xp0se)
+[![Image](https://i.hizliresim.com/j9wyfds.png)](https://hizliresim.com/j9wyfds)
 
 ![Home Page](https://hizliresim.com/j9wyfds)
 
