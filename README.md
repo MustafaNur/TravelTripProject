@@ -3,6 +3,13 @@
 Merhabalar, bu proje Murat Yücedağ'nın YouTube da ki Asp.Net Mvc5 ile Tatil Seyahat Sitesi serisi izlenerk, uygulanarak ve core'a çevrilerek uygulanmıştır.
 
 Proje tatil seyahat ve blog sitesi olarak oluşturuldu. Siteyi üç başlığa bölebiriz Ana Sayfa, Hakkımızda ve Bloglar. Ana sayfada ilk olrak bizi slider karşılıyor alt kısma inerken bir tanıtım bölümü var, onun altında son 3 blog yer alıyor. Hakkımda ise bir başlık, fotoğraf ve hakkımızda yazısı yer almakta. Bloglar kısmında bloglar yer almakta. Blogların detay sayfasında blog yazısı ve yorum bileşeni yer almakta. Admin tarafında, Bloglar için crud işlemleri yer almakta. Ayrıca yapılan yorumları görüntülenebilir.
+---
+En 
+Hello, this project was implemented by following Murat Yücedağ's YouTube series "Tatil Seyahat Sitesi with Asp.Net Mvc5" and adapting it to .NET Core.
+
+The project is designed as a travel and blog site. We can divide the site into three main sections: Home, About Us, and Blogs. On the home page, we are first greeted by a slider, followed by an introduction section as we scroll down, with the latest three blogs displayed below that. The About Us page includes a heading, a photo, and an "about us" text. The Blogs section contains all the blog posts. In each blog's detail page, there is the blog content along with a comments component. On the admin side, there are CRUD operations for blogs, and the ability to view comments.
+
+---
 
 ## Kullanılan Teknolojiler
 
