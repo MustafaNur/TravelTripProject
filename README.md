@@ -19,14 +19,14 @@ Proje tatil seyahat ve blog sitesi olarak oluşturuldu. Siteyi üç başlığa b
 
 [![Image](https://i.hizliresim.com/j9wyfds.png)](https://hizliresim.com/j9wyfds)
 
-![Home Page](https://hizliresim.com/j9wyfds)
+[![Image](https://i.hizliresim.com/a4xp0se.png)](https://hizliresim.com/a4xp0se)
 
-![Admin Login Page](https://hizliresim.com/bs0ilkq)
+[![Image](https://i.hizliresim.com/g5k7wth.png)](https://hizliresim.com/g5k7wth)
 
-![Blog Page](phttps://hizliresim.com/g5k7wth)
+[![Image](https://i.hizliresim.com/jsazrz5.png)](https://hizliresim.com/jsazrz5)
 
-![Blog Single Page](https://hizliresim.com/jsazrz5)
+[![Image](https://i.hizliresim.com/bs0ilkq.png)](https://hizliresim.com/bs0ilkq)
 
-![Admin Blog](https://hizliresim.com/6qj966t)
+[![Image](https://i.hizliresim.com/6qj966t.png)](https://hizliresim.com/6qj966t)
 
-![Admin Comment](https://hizliresim.com/6qj966t)
+[![Image](https://i.hizliresim.com/3d7rgy0.png)](https://hizliresim.com/3d7rgy0)
